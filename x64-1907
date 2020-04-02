@@ -6321,10 +6321,12 @@ CONFIG_PACKAGE_wget=y
 # CONFIG_PACKAGE_ksmbd-server is not set
 # CONFIG_PACKAGE_ksmbd-utils is not set
 # CONFIG_PACKAGE_netatalk is not set
+
 # NFSSupport
-CONFIG_PACKAGE_nfs-kernel-server=y
-CONFIG_PACKAGE_nfs-utils-libs=y
-CONFIG_PACKAGE_portmap=y
+# CONFIG_PACKAGE_nfs-kernel-server=y
+# CONFIG_PACKAGE_nfs-utils-libs=y
+# CONFIG_PACKAGE_portmap=y
+
 # CONFIG_PACKAGE_owftpd is not set
 # CONFIG_PACKAGE_owhttpd is not set
 # CONFIG_PACKAGE_owserver is not set
